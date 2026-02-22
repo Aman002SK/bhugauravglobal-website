@@ -1,0 +1,19 @@
+# DS_Store
+.DS_Store
+
+# node_modules
+node_modules/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+*.log
+
+# Environment variables
+.env
+.env.local
